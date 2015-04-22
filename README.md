@@ -1,5 +1,5 @@
-# nagios
-nagios plugins
+# Nagios Plugins
+Mis pequeños y humildes plugins de Nagios que he tenido que hacer en algún momento...
 
 # check_snmp_memory_cache_buffer.sh
 With this shell script you can check the real memory (Cache, Bufer, Use), through the snmp protocol, the memory usage in MB and free at %.
